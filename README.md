@@ -6,40 +6,28 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/amit_sahani_19">
-    <img src="https://img.shields.io/twitter/follow/amit_sahani_19?logo=twitter&style=for-the-badge" />
-  </a>
-  <a href="https://linkedin.com/in/amit-kumar-sahani-849537246">
+  <a href="https://linkedin.com/in/aditya-082085228">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/_.__i_sahani">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:amitsahani2322003@gmail.com">
+  <a href="mailto:contactaditya873@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
-
 ### 🚀 About Me
-
-- 🔭 I’m currently working as  *Backend Developer*
-- 🌱 Currently learning *Data Structures & Algorithms (DSA)*
-- 🧠 Ask me about * Mirco-services , system Design , React.js, Node.js, MongoDB, Firebase, Docker, AWS, Appwrite & more*
-- 📫 How to reach me: *amitsahani2322003@gmail.com*
-- 📄 [A bit my self ](https://www.notion.so/Shipping-Ideas-One-Commit-at-a-Time-1f4f671e825c80c5a3d6e7f552088fba?source=copy_link)
-- ⚡ Fun Fact: I love clean code... and bad jokes!
+- 🔭 I’m currently working as a **Backend Developer** at a fintech startup.  
+- 🌱 I’m actively improving my **Data Structures & Algorithms (DSA)** skills and diving deeper into **system design & micro‑services**.  
+- 🧠 Ask me about: **Micro‑services, system design, React.js, Node.js, MongoDB, Firebase, Docker, AWS, Appwrite, and more**.  
+- 📫 How to reach me: **amitsahani2322003@gmail.com**  
+- 📄 [A bit about myself](https://www.notion.so/Shipping-Ideas-One-Commit-at-a-Time-1f4f671e825c80c5a3d6e7f552088fba?source=copy_link)  
+- ⚡ Fun Fact: I love clean code… and embarrassingly bad jokes!
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,html,css,tailwind,bootstrap,redux,firebase,docker,aws,git,github,cpp,c,python,postman,mysql" />
 </p>
-
----
 
 ### 📈 GitHub Stats & Contributions
 
