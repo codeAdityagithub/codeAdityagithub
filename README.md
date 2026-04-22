@@ -18,9 +18,7 @@
 - 🔭 I’m currently working as a **Backend Developer** at a fintech startup.  
 - 🌱 I’m actively improving my **Data Structures & Algorithms (DSA)** skills and diving deeper into **system design & micro‑services**.  
 - 🧠 Ask me about: **Micro‑services, system design, React.js, Node.js, MongoDB, Firebase, Docker, AWS, Appwrite, and more**.  
-- 📫 How to reach me: **amitsahani2322003@gmail.com**  
-- 📄 [A bit about myself](https://www.notion.so/Shipping-Ideas-One-Commit-at-a-Time-1f4f671e825c80c5a3d6e7f552088fba?source=copy_link)  
-- ⚡ Fun Fact: I love clean code… and embarrassingly bad jokes!
+- 📫 How to reach me: **contactaditya873@gmail.com**  
 
 ---
 
